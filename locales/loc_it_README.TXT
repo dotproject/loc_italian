@@ -10,6 +10,6 @@ go in sysyem admin
 
 go in traslation
 
-make a new abbrevation   it    Italian
+make a new abbrevation in system:   it    Italian
 
 that's all go in "my info", preference and select language "it"

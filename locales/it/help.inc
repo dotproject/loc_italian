@@ -14,4 +14,4 @@
 "Saving Your Place"=>"Conservare Il Vostro Posto",
 "Tabbed Property Boxes"=>"Proprietà della vista Tabbed",
 "Top Menu"=>"Menu Superiore",
-"helpIntro"=>"Qui sono alcuni collegamenti rapidi agli argomenti principali nel file di aiuto che non sono direttamente accessibili dall\'aiuto contestuale.",
+"helpIntro"=>"Qui sono alcuni collegamenti rapidi agli argomenti principali nel file di aiuto che non sono direttamente accessibili dall\"aiuto contestuale.",

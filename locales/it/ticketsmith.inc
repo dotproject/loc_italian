@@ -13,6 +13,6 @@
 "Priority"=>"Priorità",
 "Status"=>"Stato",
 "Subject"=>"Soggetto",
-"Trouble Ticket Management"=>"Amministrazione delle Segnalazioni d\'errore",
+"Trouble Ticket Management"=>"Amministrazione delle Segnalazioni d\"errore",
 "View"=>"Visualizza",
 "new ticket"=>"nuova segnalazione",
