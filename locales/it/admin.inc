@@ -38,7 +38,7 @@
 "add user"=>"agg. utente",
 "adminInvalidBirthday"=>"Inserire il compleanno in un formato aaaa-mm-gg",
 "adminInvalidDay"=>"Il giorno è sbagliato.",
-"adminInvalidEmail"=>"L\"Email è sbagliata.",
+"adminInvalidEmail"=>"L'Email è sbagliata.",
 "adminInvalidMonth"=>"Il mese è sbagliato (prova 4 invece che 04).",
 "adminInvalidYear"=>"Anno sbagliato.",
 "adminPasswordsDiffer"=>"Le password non corrispondono.",
