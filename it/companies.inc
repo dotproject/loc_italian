@@ -1,0 +1,20 @@
+##
+## DO NOT MODIFY THIS FILE BY HAND!
+##
+"Add Company"=>"Agg. Cliente",
+"Budget"=>"Budget",
+"Company Name"=>"Nome Cliente",
+"Company Owner"=>"Proprietario",
+"Edit Company"=>"Mod. Cliente",
+"Invalid Company ID"=>"ID Società non valido",
+"Started"=>"Iniziato",
+"Status"=>"Stato",
+"View Company"=>"Visualizza Cliente",
+"companies list"=>"lista dei clienti",
+"company list"=>"lista clienti",
+"companyDelete"=>"",
+"companyValidName"=>"",
+"delete company"=>"cancella cliente",
+"edit this company"=>"mod. cliente",
+"new company"=>"nuovo cliente",
+"view this company"=>"visualizza questo cliente",
