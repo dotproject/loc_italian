@@ -1,0 +1,20 @@
+##
+## DO NOT MODIFY THIS FILE BY HAND!
+##
+"Add Company"=>"Agg. Società",
+"Budget"=>"Budget",
+"Company Name"=>"Nome Società",
+"Company Owner"=>"Proprietario",
+"Edit Company"=>"Mod. Società",
+"Invalid Company ID"=>"ID Società non valido",
+"Started"=>"Iniziato",
+"Status"=>"Stato",
+"View Company"=>"Visualizza Società",
+"companies list"=>"lista della società",
+"company list"=>"lista della società",
+"companyDelete"=>"",
+"companyValidName"=>"",
+"delete company"=>"cancella società",
+"edit this company"=>"mod. società",
+"new company"=>"nuova società",
+"view this company"=>"visualizza questa società",
